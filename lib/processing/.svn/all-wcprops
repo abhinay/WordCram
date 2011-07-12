@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/404/trunk/lib/processing
+END
+core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/306/trunk/lib/processing/core.jar
+END
+pdf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/404/trunk/lib/processing/pdf.jar
+END
+itext.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/404/trunk/lib/processing/itext.jar
+END

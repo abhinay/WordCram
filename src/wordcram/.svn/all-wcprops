@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/430/trunk/src/wordcram
+END
+PlottingWordNudger.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/425/trunk/src/wordcram/PlottingWordNudger.java
+END
+EngineWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/398/trunk/src/wordcram/EngineWord.java
+END
+WordColorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/178/trunk/src/wordcram/WordColorer.java
+END
+WordPlacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/177/trunk/src/wordcram/WordPlacer.java
+END
+BBTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/399/trunk/src/wordcram/BBTree.java
+END
+WordCramEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/404/trunk/src/wordcram/WordCramEngine.java
+END
+WordAngler.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/177/trunk/src/wordcram/WordAngler.java
+END
+BBTreeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/398/trunk/src/wordcram/BBTreeBuilder.java
+END
+Word.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/372/trunk/src/wordcram/Word.java
+END
+WordCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/430/trunk/src/wordcram/WordCounter.java
+END
+WordShaper.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/318/trunk/src/wordcram/WordShaper.java
+END
+WordCram.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/430/trunk/src/wordcram/WordCram.java
+END
+Sizers.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/372/trunk/src/wordcram/Sizers.java
+END
+Fonters.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/262/trunk/src/wordcram/Fonters.java
+END
+WordNudger.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/178/trunk/src/wordcram/WordNudger.java
+END
+RandomWordNudger.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/307/trunk/src/wordcram/RandomWordNudger.java
+END
+PlottingWordPlacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/366/trunk/src/wordcram/PlottingWordPlacer.java
+END
+SwirlWordPlacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/307/trunk/src/wordcram/SwirlWordPlacer.java
+END
+WaveWordPlacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/366/trunk/src/wordcram/WaveWordPlacer.java
+END
+WordSorterAndScaler.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/357/trunk/src/wordcram/WordSorterAndScaler.java
+END
+Colorers.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/348/trunk/src/wordcram/Colorers.java
+END
+WordSizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/177/trunk/src/wordcram/WordSizer.java
+END
+WordFonter.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/178/trunk/src/wordcram/WordFonter.java
+END
+UpperLeftWordPlacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/307/trunk/src/wordcram/UpperLeftWordPlacer.java
+END
+Placers.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/372/trunk/src/wordcram/Placers.java
+END
+Anglers.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/366/trunk/src/wordcram/Anglers.java
+END
+RenderOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/395/trunk/src/wordcram/RenderOptions.java
+END
+SpiralWordNudger.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/307/trunk/src/wordcram/SpiralWordNudger.java
+END
+HsbWordColorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/336/trunk/src/wordcram/HsbWordColorer.java
+END

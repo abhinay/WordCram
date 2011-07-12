@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/430/trunk/lib
+END
+cue.language.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/430/trunk/lib/cue.language.jar
+END
+jsoup-1.3.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/113/trunk/lib/jsoup-1.3.3.jar
+END
+mockito-all-1.8.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/302/trunk/lib/mockito-all-1.8.5.jar
+END

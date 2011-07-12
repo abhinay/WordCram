@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="svnant">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/svnant/svnClientAdapter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/svnant/svnkit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/svnant/svnant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/svnant/ganymed.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/svnant/svnjavahl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

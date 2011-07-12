@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/75/trunk/lib/svnant
+END
+ganymed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/75/trunk/lib/svnant/ganymed.jar
+END
+svnClientAdapter.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/75/trunk/lib/svnant/svnClientAdapter.jar
+END
+svnant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/75/trunk/lib/svnant/svnant.jar
+END
+svnjavahl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/75/trunk/lib/svnant/svnjavahl.jar
+END
+svnkit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/75/trunk/lib/svnant/svnkit.jar
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/430/trunk
+END
+cheatsheet.html
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/340/trunk/cheatsheet.html
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/430/trunk/.classpath
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/NOTICE
+END
+docgen.rb
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/341/trunk/docgen.rb
+END
+wordcram.png
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/148/trunk/wordcram.png
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/LICENSE
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/.project
+END
+RELEASENOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/415/trunk/RELEASENOTES.txt
+END
+cheatsheet.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/338/trunk/cheatsheet.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/430/trunk/build.xml
+END
